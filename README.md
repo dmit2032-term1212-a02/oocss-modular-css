@@ -1,2 +1,2 @@
-# OOCSS Modular Theming Demo Starter Files
+# OOCSS Modular CSS Demo
 
