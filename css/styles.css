@@ -24,5 +24,55 @@ section {
 }
 
 /** STRUCTURE **/
+.card {
+	border-radius: 0.5rem;
+	border: 0.1rem solid #ccc;
+	width: 40rem;
+	margin: 3rem 2%;
+}
+
+.card-body {
+	padding: 1.5rem;
+}
+
+h4 {
+	font-size: 2rem;
+	margin-bottom: 1.5rem;
+}
+
+p {
+	margin-bottom: 3rem;
+}
+
+.btn {
+	padding: 1rem 2rem;
+	border-radius: 0.5rem;
+	border: 0.1rem solid #ccc;
+	text-decoration: none;
+	display: inline-block;
+	transition: background-color 0.3s ease-in-out;
+}
 
 /** STYLE **/
+.border-radius-top { 
+	border-top-left-radius: 0.5rem;
+	border-top-right-radius: 0.5rem;
+}
+
+/** btn colours **/
+.btn-blue {
+	background-color: blue;
+	color: #ccc;
+}
+
+.btn-orange {
+	background-color: orange;
+}
+
+/** states **/
+.btn:hover{
+	/** add structural changes here **/
+}
+.btn-blue:hover {
+	background-color: darkblue;
+}

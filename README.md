@@ -1,1 +1,2 @@
-# oocss-modular-theme-demo
+# OOCSS Modular Theming Demo Starter Files
+
